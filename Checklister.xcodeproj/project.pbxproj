@@ -7,14 +7,64 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6071CD0B2C2B6A1C00756A1C /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD0A2C2B6A1C00756A1C /* LoginView.swift */; };
+		6071CD0D2C2CA86B00756A1C /* RegistrationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD0C2C2CA86B00756A1C /* RegistrationView.swift */; };
+		6071CD0F2C2CAE3F00756A1C /* EmailConfirmation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD0E2C2CAE3F00756A1C /* EmailConfirmation.swift */; };
+		6071CD162C2DDFB300756A1C /* AddOrJoingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD152C2DDFB300756A1C /* AddOrJoingView.swift */; };
+		6071CD182C2DF4A900756A1C /* MainTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD172C2DF4A900756A1C /* MainTab.swift */; };
+		6071CD1A2C2DF4E800756A1C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD192C2DF4E800756A1C /* SettingsView.swift */; };
+		6071CD1C2C2DF85800756A1C /* CustomTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD1B2C2DF85800756A1C /* CustomTabView.swift */; };
+		6071CD1E2C2F1CE100756A1C /* AccountView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD1D2C2F1CE100756A1C /* AccountView.swift */; };
+		6071CD202C2F61BD00756A1C /* EditOrganizationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD1F2C2F61BD00756A1C /* EditOrganizationView.swift */; };
+		6071CD222C306B4E00756A1C /* ChecklistView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD212C306B4E00756A1C /* ChecklistView.swift */; };
+		6071CD242C30B9F000756A1C /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD232C30B9F000756A1C /* AddTaskView.swift */; };
+		6071CD262C30BA0800756A1C /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD252C30BA0800756A1C /* MainView.swift */; };
+		6071CD2A2C3186F700756A1C /* MembersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD292C3186F700756A1C /* MembersView.swift */; };
+		6071CD2C2C31871400756A1C /* SuccessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD2B2C31871400756A1C /* SuccessView.swift */; };
+		6071CD2E2C31872E00756A1C /* WaitingRequestsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD2D2C31872E00756A1C /* WaitingRequestsView.swift */; };
+		6071CD302C31970F00756A1C /* AddChecklist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD2F2C31970F00756A1C /* AddChecklist.swift */; };
+		6071CD322C31AA2400756A1C /* AddOrganizationFirst.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD312C31AA2400756A1C /* AddOrganizationFirst.swift */; };
+		6071CD342C31AA3A00756A1C /* InviteMembers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD332C31AA3A00756A1C /* InviteMembers.swift */; };
+		6071CD362C333AA700756A1C /* CodeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD352C333AA700756A1C /* CodeView.swift */; };
+		6071CD392C333B1D00756A1C /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD382C333B1D00756A1C /* String.swift */; };
+		6071CD3C2C333D6800756A1C /* ContinueButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD3B2C333D6800756A1C /* ContinueButtons.swift */; };
+		6071CD422C33406200756A1C /* CustomAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD412C33406200756A1C /* CustomAlert.swift */; };
+		6071CD452C3340C200756A1C /* SwitchOrganizationAlertRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD442C3340C200756A1C /* SwitchOrganizationAlertRow.swift */; };
+		6071CD472C33418100756A1C /* TestMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD462C33418100756A1C /* TestMainView.swift */; };
+		6071CD492C33424F00756A1C /* AccountTopBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD482C33424F00756A1C /* AccountTopBar.swift */; };
+		6071CD4B2C33432500756A1C /* ChecklistRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD4A2C33432500756A1C /* ChecklistRow.swift */; };
+		6071CD4D2C33435500756A1C /* CircularPrograssBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD4C2C33435500756A1C /* CircularPrograssBar.swift */; };
+		6071CD4F2C33446F00756A1C /* PlusBottomBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD4E2C33446F00756A1C /* PlusBottomBar.swift */; };
+		6071CD512C33458600756A1C /* SettingsRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD502C33458600756A1C /* SettingsRow.swift */; };
+		6071CD532C3348BF00756A1C /* AccountBottomBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD522C3348BF00756A1C /* AccountBottomBar.swift */; };
+		6071CD552C3475B700756A1C /* CustomBottomBackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD542C3475B700756A1C /* CustomBottomBackButton.swift */; };
+		6071CD572C3483EB00756A1C /* Enums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD562C3483EB00756A1C /* Enums.swift */; };
+		6071CD592C34841900756A1C /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD582C34841900756A1C /* ProgressBar.swift */; };
+		6071CD5B2C34845C00756A1C /* TaskRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD5A2C34845C00756A1C /* TaskRow.swift */; };
+		6071CD5D2C34891000756A1C /* WaitingRequestsRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD5C2C34891000756A1C /* WaitingRequestsRow.swift */; };
+		6071CD622C3B283900756A1C /* gallery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD612C3B283800756A1C /* gallery.swift */; };
+		6071CD672C3B2C8300756A1C /* Nuke in Frameworks */ = {isa = PBXBuildFile; productRef = 6071CD662C3B2C8300756A1C /* Nuke */; };
+		6071CD692C3B2C8300756A1C /* NukeExtensions in Frameworks */ = {isa = PBXBuildFile; productRef = 6071CD682C3B2C8300756A1C /* NukeExtensions */; };
+		6071CD6B2C3B2C8300756A1C /* NukeUI in Frameworks */ = {isa = PBXBuildFile; productRef = 6071CD6A2C3B2C8300756A1C /* NukeUI */; };
+		6071CD6D2C3B2C8300756A1C /* NukeVideo in Frameworks */ = {isa = PBXBuildFile; productRef = 6071CD6C2C3B2C8300756A1C /* NukeVideo */; };
+		6071CD732C3B35A200756A1C /* SwiftUIIntrospect in Frameworks */ = {isa = PBXBuildFile; productRef = 6071CD722C3B35A200756A1C /* SwiftUIIntrospect */; };
+		6071CD762C3C946D00756A1C /* SwipeActions in Frameworks */ = {isa = PBXBuildFile; productRef = 6071CD752C3C946D00756A1C /* SwipeActions */; };
+		6071CD792C3D823800756A1C /* DropViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD782C3D823800756A1C /* DropViewDelegate.swift */; };
+		6071CD7B2C3EFFC100756A1C /* TopBackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6071CD7A2C3EFFC100756A1C /* TopBackButton.swift */; };
+		60B270302C4005310044358B /* SwitchOrgRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B2702F2C4005310044358B /* SwitchOrgRow.swift */; };
+		60B270322C400C050044358B /* HashableImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B270312C400C050044358B /* HashableImage.swift */; };
+		60B270342C400CC90044358B /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B270332C400CC90044358B /* CustomButton.swift */; };
+		60B270362C400CFD0044358B /* BasicButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B270352C400CFD0044358B /* BasicButton.swift */; };
+		60B270382C400D300044358B /* CustomPaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B270372C400D300044358B /* CustomPaths.swift */; };
+		60B2703A2C400FB50044358B /* View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60B270392C400FB50044358B /* View.swift */; };
 		60E5CDCB2C0A42BD00E20FCE /* ChecklisterApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E5CDCA2C0A42BD00E20FCE /* ChecklisterApp.swift */; };
-		60E5CDCD2C0A42BD00E20FCE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E5CDCC2C0A42BD00E20FCE /* ContentView.swift */; };
-		60E5CDCF2C0A42BD00E20FCE /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E5CDCE2C0A42BD00E20FCE /* Item.swift */; };
+		60E5CDCD2C0A42BD00E20FCE /* WelcomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E5CDCC2C0A42BD00E20FCE /* WelcomeScreen.swift */; };
 		60E5CDD12C0A42BE00E20FCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60E5CDD02C0A42BE00E20FCE /* Assets.xcassets */; };
 		60E5CDD52C0A42BE00E20FCE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 60E5CDD42C0A42BE00E20FCE /* Preview Assets.xcassets */; };
 		60E5CDE02C0A42BE00E20FCE /* ChecklisterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E5CDDF2C0A42BE00E20FCE /* ChecklisterTests.swift */; };
 		60E5CDEA2C0A42BE00E20FCE /* ChecklisterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E5CDE92C0A42BE00E20FCE /* ChecklisterUITests.swift */; };
 		60E5CDEC2C0A42BE00E20FCE /* ChecklisterUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E5CDEB2C0A42BE00E20FCE /* ChecklisterUITestsLaunchTests.swift */; };
+		60E5CDF92C0B9DFC00E20FCE /* Prompt in Resources */ = {isa = PBXBuildFile; fileRef = 60E5CDF82C0B9DFC00E20FCE /* Prompt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,10 +85,53 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6071CD0A2C2B6A1C00756A1C /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		6071CD0C2C2CA86B00756A1C /* RegistrationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationView.swift; sourceTree = "<group>"; };
+		6071CD0E2C2CAE3F00756A1C /* EmailConfirmation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailConfirmation.swift; sourceTree = "<group>"; };
+		6071CD152C2DDFB300756A1C /* AddOrJoingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddOrJoingView.swift; sourceTree = "<group>"; };
+		6071CD172C2DF4A900756A1C /* MainTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTab.swift; sourceTree = "<group>"; };
+		6071CD192C2DF4E800756A1C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		6071CD1B2C2DF85800756A1C /* CustomTabView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTabView.swift; sourceTree = "<group>"; };
+		6071CD1D2C2F1CE100756A1C /* AccountView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountView.swift; sourceTree = "<group>"; };
+		6071CD1F2C2F61BD00756A1C /* EditOrganizationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditOrganizationView.swift; sourceTree = "<group>"; };
+		6071CD212C306B4E00756A1C /* ChecklistView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistView.swift; sourceTree = "<group>"; };
+		6071CD232C30B9F000756A1C /* AddTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskView.swift; sourceTree = "<group>"; };
+		6071CD252C30BA0800756A1C /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		6071CD292C3186F700756A1C /* MembersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MembersView.swift; sourceTree = "<group>"; };
+		6071CD2B2C31871400756A1C /* SuccessView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuccessView.swift; sourceTree = "<group>"; };
+		6071CD2D2C31872E00756A1C /* WaitingRequestsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaitingRequestsView.swift; sourceTree = "<group>"; };
+		6071CD2F2C31970F00756A1C /* AddChecklist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddChecklist.swift; sourceTree = "<group>"; };
+		6071CD312C31AA2400756A1C /* AddOrganizationFirst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddOrganizationFirst.swift; sourceTree = "<group>"; };
+		6071CD332C31AA3A00756A1C /* InviteMembers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InviteMembers.swift; sourceTree = "<group>"; };
+		6071CD352C333AA700756A1C /* CodeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeView.swift; sourceTree = "<group>"; };
+		6071CD382C333B1D00756A1C /* String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
+		6071CD3B2C333D6800756A1C /* ContinueButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinueButtons.swift; sourceTree = "<group>"; };
+		6071CD412C33406200756A1C /* CustomAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomAlert.swift; sourceTree = "<group>"; };
+		6071CD442C3340C200756A1C /* SwitchOrganizationAlertRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchOrganizationAlertRow.swift; sourceTree = "<group>"; };
+		6071CD462C33418100756A1C /* TestMainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestMainView.swift; sourceTree = "<group>"; };
+		6071CD482C33424F00756A1C /* AccountTopBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountTopBar.swift; sourceTree = "<group>"; };
+		6071CD4A2C33432500756A1C /* ChecklistRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistRow.swift; sourceTree = "<group>"; };
+		6071CD4C2C33435500756A1C /* CircularPrograssBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularPrograssBar.swift; sourceTree = "<group>"; };
+		6071CD4E2C33446F00756A1C /* PlusBottomBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlusBottomBar.swift; sourceTree = "<group>"; };
+		6071CD502C33458600756A1C /* SettingsRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsRow.swift; sourceTree = "<group>"; };
+		6071CD522C3348BF00756A1C /* AccountBottomBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountBottomBar.swift; sourceTree = "<group>"; };
+		6071CD542C3475B700756A1C /* CustomBottomBackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBottomBackButton.swift; sourceTree = "<group>"; };
+		6071CD562C3483EB00756A1C /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
+		6071CD582C34841900756A1C /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
+		6071CD5A2C34845C00756A1C /* TaskRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskRow.swift; sourceTree = "<group>"; };
+		6071CD5C2C34891000756A1C /* WaitingRequestsRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaitingRequestsRow.swift; sourceTree = "<group>"; };
+		6071CD612C3B283800756A1C /* gallery.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gallery.swift; sourceTree = "<group>"; };
+		6071CD782C3D823800756A1C /* DropViewDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropViewDelegate.swift; sourceTree = "<group>"; };
+		6071CD7A2C3EFFC100756A1C /* TopBackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopBackButton.swift; sourceTree = "<group>"; };
+		60B2702F2C4005310044358B /* SwitchOrgRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchOrgRow.swift; sourceTree = "<group>"; };
+		60B270312C400C050044358B /* HashableImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableImage.swift; sourceTree = "<group>"; };
+		60B270332C400CC90044358B /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		60B270352C400CFD0044358B /* BasicButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicButton.swift; sourceTree = "<group>"; };
+		60B270372C400D300044358B /* CustomPaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPaths.swift; sourceTree = "<group>"; };
+		60B270392C400FB50044358B /* View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View.swift; sourceTree = "<group>"; };
 		60E5CDC72C0A42BD00E20FCE /* Checklister.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Checklister.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60E5CDCA2C0A42BD00E20FCE /* ChecklisterApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklisterApp.swift; sourceTree = "<group>"; };
-		60E5CDCC2C0A42BD00E20FCE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		60E5CDCE2C0A42BD00E20FCE /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		60E5CDCC2C0A42BD00E20FCE /* WelcomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeScreen.swift; sourceTree = "<group>"; };
 		60E5CDD02C0A42BE00E20FCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		60E5CDD22C0A42BE00E20FCE /* Checklister.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Checklister.entitlements; sourceTree = "<group>"; };
 		60E5CDD42C0A42BE00E20FCE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -48,6 +141,7 @@
 		60E5CDE52C0A42BE00E20FCE /* ChecklisterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChecklisterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		60E5CDE92C0A42BE00E20FCE /* ChecklisterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklisterUITests.swift; sourceTree = "<group>"; };
 		60E5CDEB2C0A42BE00E20FCE /* ChecklisterUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklisterUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		60E5CDF82C0B9DFC00E20FCE /* Prompt */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Prompt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +149,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6071CD672C3B2C8300756A1C /* Nuke in Frameworks */,
+				6071CD762C3C946D00756A1C /* SwipeActions in Frameworks */,
+				6071CD6D2C3B2C8300756A1C /* NukeVideo in Frameworks */,
+				6071CD692C3B2C8300756A1C /* NukeExtensions in Frameworks */,
+				6071CD732C3B35A200756A1C /* SwiftUIIntrospect in Frameworks */,
+				6071CD6B2C3B2C8300756A1C /* NukeUI in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,6 +175,126 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6071CD372C333AEC00756A1C /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				6071CD382C333B1D00756A1C /* String.swift */,
+				6071CD562C3483EB00756A1C /* Enums.swift */,
+				6071CD782C3D823800756A1C /* DropViewDelegate.swift */,
+				60B270312C400C050044358B /* HashableImage.swift */,
+				60B270392C400FB50044358B /* View.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		6071CD3A2C333D1500756A1C /* CustomViews */ = {
+			isa = PBXGroup;
+			children = (
+				6071CD5F2C348A6600756A1C /* ProgressBars */,
+				6071CD5E2C348A1D00756A1C /* BarFill */,
+				6071CD352C333AA700756A1C /* CodeView.swift */,
+				6071CD432C33409400756A1C /* CustomParts */,
+				6071CD412C33406200756A1C /* CustomAlert.swift */,
+				6071CD1B2C2DF85800756A1C /* CustomTabView.swift */,
+				6071CD3B2C333D6800756A1C /* ContinueButtons.swift */,
+				60B270332C400CC90044358B /* CustomButton.swift */,
+				60B270352C400CFD0044358B /* BasicButton.swift */,
+				60B270372C400D300044358B /* CustomPaths.swift */,
+			);
+			path = CustomViews;
+			sourceTree = "<group>";
+		};
+		6071CD3D2C333E5B00756A1C /* SingIn */ = {
+			isa = PBXGroup;
+			children = (
+				60E5CDCC2C0A42BD00E20FCE /* WelcomeScreen.swift */,
+				6071CD0E2C2CAE3F00756A1C /* EmailConfirmation.swift */,
+				6071CD0C2C2CA86B00756A1C /* RegistrationView.swift */,
+				6071CD0A2C2B6A1C00756A1C /* LoginView.swift */,
+			);
+			path = SingIn;
+			sourceTree = "<group>";
+		};
+		6071CD3E2C333EC700756A1C /* AddEdit */ = {
+			isa = PBXGroup;
+			children = (
+				6071CD602C348B0A00756A1C /* Organization */,
+				6071CD152C2DDFB300756A1C /* AddOrJoingView.swift */,
+				6071CD2F2C31970F00756A1C /* AddChecklist.swift */,
+				6071CD232C30B9F000756A1C /* AddTaskView.swift */,
+			);
+			path = AddEdit;
+			sourceTree = "<group>";
+		};
+		6071CD3F2C333F1900756A1C /* MainTabs */ = {
+			isa = PBXGroup;
+			children = (
+				6071CD172C2DF4A900756A1C /* MainTab.swift */,
+				6071CD1D2C2F1CE100756A1C /* AccountView.swift */,
+				6071CD402C333FD200756A1C /* ExtraViews */,
+				6071CD252C30BA0800756A1C /* MainView.swift */,
+				6071CD192C2DF4E800756A1C /* SettingsView.swift */,
+				6071CD462C33418100756A1C /* TestMainView.swift */,
+			);
+			path = MainTabs;
+			sourceTree = "<group>";
+		};
+		6071CD402C333FD200756A1C /* ExtraViews */ = {
+			isa = PBXGroup;
+			children = (
+				6071CD292C3186F700756A1C /* MembersView.swift */,
+				6071CD612C3B283800756A1C /* gallery.swift */,
+				6071CD2D2C31872E00756A1C /* WaitingRequestsView.swift */,
+				6071CD2B2C31871400756A1C /* SuccessView.swift */,
+				6071CD212C306B4E00756A1C /* ChecklistView.swift */,
+			);
+			path = ExtraViews;
+			sourceTree = "<group>";
+		};
+		6071CD432C33409400756A1C /* CustomParts */ = {
+			isa = PBXGroup;
+			children = (
+				6071CD442C3340C200756A1C /* SwitchOrganizationAlertRow.swift */,
+				6071CD4A2C33432500756A1C /* ChecklistRow.swift */,
+				6071CD5C2C34891000756A1C /* WaitingRequestsRow.swift */,
+				6071CD502C33458600756A1C /* SettingsRow.swift */,
+				6071CD5A2C34845C00756A1C /* TaskRow.swift */,
+				60B2702F2C4005310044358B /* SwitchOrgRow.swift */,
+			);
+			path = CustomParts;
+			sourceTree = "<group>";
+		};
+		6071CD5E2C348A1D00756A1C /* BarFill */ = {
+			isa = PBXGroup;
+			children = (
+				6071CD482C33424F00756A1C /* AccountTopBar.swift */,
+				6071CD522C3348BF00756A1C /* AccountBottomBar.swift */,
+				6071CD542C3475B700756A1C /* CustomBottomBackButton.swift */,
+				6071CD4E2C33446F00756A1C /* PlusBottomBar.swift */,
+				6071CD7A2C3EFFC100756A1C /* TopBackButton.swift */,
+			);
+			path = BarFill;
+			sourceTree = "<group>";
+		};
+		6071CD5F2C348A6600756A1C /* ProgressBars */ = {
+			isa = PBXGroup;
+			children = (
+				6071CD582C34841900756A1C /* ProgressBar.swift */,
+				6071CD4C2C33435500756A1C /* CircularPrograssBar.swift */,
+			);
+			path = ProgressBars;
+			sourceTree = "<group>";
+		};
+		6071CD602C348B0A00756A1C /* Organization */ = {
+			isa = PBXGroup;
+			children = (
+				6071CD312C31AA2400756A1C /* AddOrganizationFirst.swift */,
+				6071CD1F2C2F61BD00756A1C /* EditOrganizationView.swift */,
+				6071CD332C31AA3A00756A1C /* InviteMembers.swift */,
+			);
+			path = Organization;
+			sourceTree = "<group>";
+		};
 		60E5CDBE2C0A42BD00E20FCE = {
 			isa = PBXGroup;
 			children = (
@@ -98,12 +318,16 @@
 		60E5CDC92C0A42BD00E20FCE /* Checklister */ = {
 			isa = PBXGroup;
 			children = (
+				6071CD3F2C333F1900756A1C /* MainTabs */,
+				6071CD3E2C333EC700756A1C /* AddEdit */,
+				6071CD3D2C333E5B00756A1C /* SingIn */,
+				6071CD3A2C333D1500756A1C /* CustomViews */,
+				6071CD372C333AEC00756A1C /* Extensions */,
 				60E5CDCA2C0A42BD00E20FCE /* ChecklisterApp.swift */,
-				60E5CDCC2C0A42BD00E20FCE /* ContentView.swift */,
-				60E5CDCE2C0A42BD00E20FCE /* Item.swift */,
 				60E5CDD02C0A42BE00E20FCE /* Assets.xcassets */,
 				60E5CDD22C0A42BE00E20FCE /* Checklister.entitlements */,
 				60E5CDD62C0A42BE00E20FCE /* Info.plist */,
+				60E5CDF82C0B9DFC00E20FCE /* Prompt */,
 				60E5CDD32C0A42BE00E20FCE /* Preview Content */,
 			);
 			path = Checklister;
@@ -150,6 +374,14 @@
 			dependencies = (
 			);
 			name = Checklister;
+			packageProductDependencies = (
+				6071CD662C3B2C8300756A1C /* Nuke */,
+				6071CD682C3B2C8300756A1C /* NukeExtensions */,
+				6071CD6A2C3B2C8300756A1C /* NukeUI */,
+				6071CD6C2C3B2C8300756A1C /* NukeVideo */,
+				6071CD722C3B35A200756A1C /* SwiftUIIntrospect */,
+				6071CD752C3C946D00756A1C /* SwipeActions */,
+			);
 			productName = Checklister;
 			productReference = 60E5CDC72C0A42BD00E20FCE /* Checklister.app */;
 			productType = "com.apple.product-type.application";
@@ -222,6 +454,11 @@
 				Base,
 			);
 			mainGroup = 60E5CDBE2C0A42BD00E20FCE;
+			packageReferences = (
+				6071CD652C3B2C8300756A1C /* XCRemoteSwiftPackageReference "Nuke" */,
+				6071CD712C3B35A200756A1C /* XCRemoteSwiftPackageReference "SwiftUI-Introspect" */,
+				6071CD742C3C946D00756A1C /* XCRemoteSwiftPackageReference "SwipeActions" */,
+			);
 			productRefGroup = 60E5CDC82C0A42BD00E20FCE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -238,6 +475,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60E5CDF92C0B9DFC00E20FCE /* Prompt in Resources */,
 				60E5CDD52C0A42BE00E20FCE /* Preview Assets.xcassets in Resources */,
 				60E5CDD12C0A42BE00E20FCE /* Assets.xcassets in Resources */,
 			);
@@ -264,9 +502,52 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				60E5CDCD2C0A42BD00E20FCE /* ContentView.swift in Sources */,
-				60E5CDCF2C0A42BD00E20FCE /* Item.swift in Sources */,
+				6071CD452C3340C200756A1C /* SwitchOrganizationAlertRow.swift in Sources */,
+				6071CD342C31AA3A00756A1C /* InviteMembers.swift in Sources */,
+				6071CD5D2C34891000756A1C /* WaitingRequestsRow.swift in Sources */,
+				6071CD492C33424F00756A1C /* AccountTopBar.swift in Sources */,
+				6071CD0B2C2B6A1C00756A1C /* LoginView.swift in Sources */,
+				6071CD1A2C2DF4E800756A1C /* SettingsView.swift in Sources */,
+				60B270382C400D300044358B /* CustomPaths.swift in Sources */,
+				6071CD2C2C31871400756A1C /* SuccessView.swift in Sources */,
+				60B270322C400C050044358B /* HashableImage.swift in Sources */,
+				6071CD3C2C333D6800756A1C /* ContinueButtons.swift in Sources */,
+				6071CD622C3B283900756A1C /* gallery.swift in Sources */,
+				6071CD2A2C3186F700756A1C /* MembersView.swift in Sources */,
+				6071CD532C3348BF00756A1C /* AccountBottomBar.swift in Sources */,
+				6071CD302C31970F00756A1C /* AddChecklist.swift in Sources */,
+				6071CD362C333AA700756A1C /* CodeView.swift in Sources */,
+				6071CD162C2DDFB300756A1C /* AddOrJoingView.swift in Sources */,
+				6071CD222C306B4E00756A1C /* ChecklistView.swift in Sources */,
+				6071CD592C34841900756A1C /* ProgressBar.swift in Sources */,
+				6071CD322C31AA2400756A1C /* AddOrganizationFirst.swift in Sources */,
+				6071CD5B2C34845C00756A1C /* TaskRow.swift in Sources */,
+				6071CD0F2C2CAE3F00756A1C /* EmailConfirmation.swift in Sources */,
+				6071CD1E2C2F1CE100756A1C /* AccountView.swift in Sources */,
+				6071CD392C333B1D00756A1C /* String.swift in Sources */,
+				60B270362C400CFD0044358B /* BasicButton.swift in Sources */,
+				60E5CDCD2C0A42BD00E20FCE /* WelcomeScreen.swift in Sources */,
+				6071CD7B2C3EFFC100756A1C /* TopBackButton.swift in Sources */,
+				6071CD512C33458600756A1C /* SettingsRow.swift in Sources */,
+				6071CD792C3D823800756A1C /* DropViewDelegate.swift in Sources */,
+				6071CD422C33406200756A1C /* CustomAlert.swift in Sources */,
+				60B270342C400CC90044358B /* CustomButton.swift in Sources */,
 				60E5CDCB2C0A42BD00E20FCE /* ChecklisterApp.swift in Sources */,
+				6071CD2E2C31872E00756A1C /* WaitingRequestsView.swift in Sources */,
+				60B2703A2C400FB50044358B /* View.swift in Sources */,
+				6071CD572C3483EB00756A1C /* Enums.swift in Sources */,
+				6071CD552C3475B700756A1C /* CustomBottomBackButton.swift in Sources */,
+				6071CD4F2C33446F00756A1C /* PlusBottomBar.swift in Sources */,
+				6071CD1C2C2DF85800756A1C /* CustomTabView.swift in Sources */,
+				6071CD0D2C2CA86B00756A1C /* RegistrationView.swift in Sources */,
+				6071CD4D2C33435500756A1C /* CircularPrograssBar.swift in Sources */,
+				6071CD472C33418100756A1C /* TestMainView.swift in Sources */,
+				6071CD4B2C33432500756A1C /* ChecklistRow.swift in Sources */,
+				6071CD202C2F61BD00756A1C /* EditOrganizationView.swift in Sources */,
+				6071CD182C2DF4A900756A1C /* MainTab.swift in Sources */,
+				60B270302C4005310044358B /* SwitchOrgRow.swift in Sources */,
+				6071CD262C30BA0800756A1C /* MainView.swift in Sources */,
+				6071CD242C30B9F000756A1C /* AddTaskView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,7 +708,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Checklister/Preview Content\"";
-				DEVELOPMENT_TEAM = M95M63D3TT;
+				DEVELOPMENT_TEAM = AM9UXL29C3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Checklister/Info.plist;
@@ -441,12 +722,12 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hrybanova.Checklister;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hrybanovaV.Checklister;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -466,7 +747,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Checklister/Preview Content\"";
-				DEVELOPMENT_TEAM = M95M63D3TT;
+				DEVELOPMENT_TEAM = AM9UXL29C3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Checklister/Info.plist;
@@ -480,12 +761,12 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.hrybanova.Checklister;
+				PRODUCT_BUNDLE_IDENTIFIER = com.hrybanovaV.Checklister;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
@@ -621,6 +902,66 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		6071CD652C3B2C8300756A1C /* XCRemoteSwiftPackageReference "Nuke" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/kean/Nuke";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.7.3;
+			};
+		};
+		6071CD712C3B35A200756A1C /* XCRemoteSwiftPackageReference "SwiftUI-Introspect" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/siteline/SwiftUI-Introspect.git";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		6071CD742C3C946D00756A1C /* XCRemoteSwiftPackageReference "SwipeActions" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/aheze/SwipeActions";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.1.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		6071CD662C3B2C8300756A1C /* Nuke */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6071CD652C3B2C8300756A1C /* XCRemoteSwiftPackageReference "Nuke" */;
+			productName = Nuke;
+		};
+		6071CD682C3B2C8300756A1C /* NukeExtensions */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6071CD652C3B2C8300756A1C /* XCRemoteSwiftPackageReference "Nuke" */;
+			productName = NukeExtensions;
+		};
+		6071CD6A2C3B2C8300756A1C /* NukeUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6071CD652C3B2C8300756A1C /* XCRemoteSwiftPackageReference "Nuke" */;
+			productName = NukeUI;
+		};
+		6071CD6C2C3B2C8300756A1C /* NukeVideo */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6071CD652C3B2C8300756A1C /* XCRemoteSwiftPackageReference "Nuke" */;
+			productName = NukeVideo;
+		};
+		6071CD722C3B35A200756A1C /* SwiftUIIntrospect */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6071CD712C3B35A200756A1C /* XCRemoteSwiftPackageReference "SwiftUI-Introspect" */;
+			productName = SwiftUIIntrospect;
+		};
+		6071CD752C3C946D00756A1C /* SwipeActions */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6071CD742C3C946D00756A1C /* XCRemoteSwiftPackageReference "SwipeActions" */;
+			productName = SwipeActions;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 60E5CDBF2C0A42BD00E20FCE /* Project object */;
 }

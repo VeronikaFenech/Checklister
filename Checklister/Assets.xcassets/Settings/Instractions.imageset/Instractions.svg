@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Instractions" transform="translate(-185.963 -405.805)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="15" cy="15" r="15" transform="translate(186.963 406.805)" fill="none" stroke="#555556" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Line_12" data-name="Line 12" y2="9.934" transform="translate(201.963 420.055)" fill="none" stroke="#555556" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Path_134" data-name="Path 134" d="M205.213,9.872a1.25,1.25,0,1,1-1.25-1.25,1.25,1.25,0,0,1,1.25,1.25" transform="translate(-2 405)" fill="#555556"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="1.25" cy="1.25" r="1.25" transform="translate(200.713 413.622)" fill="none" stroke="#555556" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.575"/>
+  </g>
+</svg>

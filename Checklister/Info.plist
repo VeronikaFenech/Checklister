@@ -2,9 +2,30 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>UIBackgroundModes</key>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIAppFonts</key>
 	<array>
-		<string>remote-notification</string>
+		<string>Prompt/Prompt-Black.ttf</string>
+		<string>Prompt/Prompt-BlackItalic.ttf</string>
+		<string>Prompt/Prompt-Bold.ttf</string>
+		<string>Prompt/Prompt-BoldItalic.ttf</string>
+		<string>Prompt/Prompt-ExtraBold.ttf</string>
+		<string>Prompt/Prompt-ExtraBoldItalic.ttf</string>
+		<string>Prompt/Prompt-ExtraLight.ttf</string>
+		<string>Prompt/Prompt-ExtraLightItalic.ttf</string>
+		<string>Prompt/Prompt-Italic.ttf</string>
+		<string>Prompt/Prompt-Light.ttf</string>
+		<string>Prompt/Prompt-LightItalic.ttf</string>
+		<string>Prompt/Prompt-Medium.ttf</string>
+		<string>Prompt/Prompt-MediumItalic.ttf</string>
+		<string>Prompt/Prompt-Regular.ttf</string>
+		<string>Prompt/Prompt-SemiBold.ttf</string>
+		<string>Prompt/Prompt-SemiBoldItalic.ttf</string>
+		<string>Prompt/Prompt-Thin.ttf</string>
+		<string>Prompt/Prompt-ThinItalic.ttf</string>
 	</array>
+	<key>UIBackgroundModes</key>
+	<array/>
 </dict>
 </plist>

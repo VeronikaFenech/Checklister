@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.164" height="30.947" viewBox="0 0 26.164 30.947">
+  <g id="Bin" transform="translate(-195.239 -524.86)">
+    <line id="Line_5" data-name="Line 5" y1="0.185" x2="24.256" transform="translate(196.193 529.026)" fill="none" stroke="#434444" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.894"/>
+    <path id="Path_111" data-name="Path 111" d="M158.232,6.642V25.916a4.288,4.288,0,0,1-4.164,4.394h-9.495a4.288,4.288,0,0,1-4.164-4.394V6.642Zm1.864-1.9H138.545c-.019.2-.03.406-.03.614V25.916a6.2,6.2,0,0,0,6.058,6.29h9.495a6.2,6.2,0,0,0,6.058-6.29V5.36c0-.207-.011-.411-.03-.614" transform="translate(59 523.601)" fill="#555556"/>
+    <path id="Path_112" data-name="Path 112" d="M151.726,2.206h-4.81c-1.325,0-2.409,1.449-2.409,3.221h9.628C154.135,3.655,153.051,2.206,151.726,2.206Z" transform="translate(59 523.601)" fill="none" stroke="#555556" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.894"/>
+    <line id="Line_6" data-name="Line 6" y2="14.675" transform="translate(205.245 534.544)" fill="none" stroke="#555556" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.636"/>
+    <line id="Line_7" data-name="Line 7" y2="14.675" transform="translate(211.213 534.544)" fill="none" stroke="#555556" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.636"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="47.709" height="42.234" viewBox="0 0 47.709 42.234">
+  <g id="InviteMembers" transform="translate(-46.853 -478.404)">
+    <g id="Group_33" data-name="Group 33" transform="translate(48.063 479.789)">
+      <path id="Path_55" data-name="Path 55" d="M41.263,24.653a9.4,9.4,0,1,1-9.4-9.4,9.4,9.4,0,0,1,9.4,9.4" transform="translate(-14.968 -15.257)" fill="#719991" stroke="#555556" stroke-width="1"/>
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="9.396" cy="9.395" rx="9.396" ry="9.395" transform="translate(7.503)" fill="#719991" stroke="#555556" stroke-width="2.77"/>
+      <path id="Path_56" data-name="Path 56" d="M50.959,44.952c0-8.142-7.713-14.743-17.229-14.743S16.5,36.809,16.5,44.952s34.458,8.142,34.458,0" transform="translate(-16.501 -11.419)" fill="#719991" stroke="#555556" stroke-width="1"/>
+      <path id="Path_57" data-name="Path 57" d="M50.959,44.952c0-8.142-7.713-14.743-17.229-14.743S16.5,36.809,16.5,44.952,50.959,53.094,50.959,44.952Z" transform="translate(-16.501 -11.419)" fill="#719991" stroke="#555556" stroke-width="2.419"/>
+    </g>
+    <path id="Union_1" data-name="Union 1" d="M-4130,22V14h-8a2,2,0,0,1-2-2,2,2,0,0,1,2-2h8V2a2,2,0,0,1,2-2,2,2,0,0,1,2,2v8h8a2,2,0,0,1,2,2,2,2,0,0,1-2,2h-8v8a2,2,0,0,1-2,2A2,2,0,0,1-4130,22Z" transform="translate(4209.563 495.289)" fill="#eeeded" stroke="#555556" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>
